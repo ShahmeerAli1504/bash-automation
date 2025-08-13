@@ -1,0 +1,45 @@
+#!/bin/bash
+n=0, Numb=0
+Check=false
+
+echo "Value of n : "
+read n
+
+second_var=$(ls Assignment_workdir/)
+while read -r file; do
+    
+	echo "$file" >> second_batch.txt
+done <<< "$second_var"#!/bin/bash
+option=" ", Fname=" ", Per=0, Inverted_permission=0, updated=0, Lnum=0
+
+while true; do 
+
+echo "Select Any of the Below options"
+
+else
+
+    echo "Error: Unable to write to '$Recycle_bin' directory"
+
+fi#!/bin/bash
+pattern_number=$1
+size_of_pattern=$2
+
+if [ $pattern_number -lt 1 ] || [ $pattern_number -gt 3 ]; then
+    echo "Pattern Number should be from 1 to 3."
+999389
+999583
+999592
+999686
+999725
+1000041User name: senpai
+Time: Thu Sep 21 12:05:53 PDT 2023
+68
+42
+57
+User name: senpai
+1000041User name: senpai
+Time: Thu Sep 21 12:05:53 PDT 2023
+68
+42
+57
+User name: senpai
